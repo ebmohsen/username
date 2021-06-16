@@ -1,30 +1,30 @@
 
-### Majid Agha Amini
+### Mohse Ebrahimian
 
 
 ### Personal informations
 
 ---
-+ name: Majid
-+ last name : Agha Amini
-+ Date of birth : 1987/December/29
++ name: Mohsen
++ last name : Ebrahimian
++ Date of birth : 1987/january/04
 + I am an IT man and also i am IT engineering student
-+ location : Tehran , I.R.Iran
++ location : khoramabad,lorestan , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ PLSQL programing
-+ Shell scripting
++ c#,java programing
++ sql server
 
 
 ### Education
 
 ---
-+ Diploma : hashtom shahrivar  high school
++ Diploma : Imam Khomeini  high school
 + Bachelor of science : IT Engineering
-_ payam Noor University of Rey 
+_ payam Noor University of khoramabad 
 
 ### language
 
@@ -41,7 +41,7 @@ _ payam Noor University of Rey
 ### working Experience
 
 ---
-+ I am working in irancell company.
++ I am working in moshanir company.
 
 
 
